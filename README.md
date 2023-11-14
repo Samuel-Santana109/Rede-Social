@@ -4,7 +4,7 @@
 
 ## Visualização
 <p>Para visualizar o projeto, basta clicar na imagem abaixo: </p>
- <a href="https://samuel-santana109.github.io/Pagina-Coca-Cola/" target="_blank"><img src="https://www.baixesoft.com/wp-content/uploads/2022/06/icone-do-coca-cola-baixesoft.png" width="50" height="50" target="_blank"></a>
+ <a href="https://samuel-santana109.github.io/Rede-Social/" target="_blank"><img src="https://www.baixesoft.com/wp-content/uploads/2022/06/icone-do-coca-cola-baixesoft.png" width="50" height="50" target="_blank"></a>
  
  ## Tecnologias Utilizadas
  - Html 5
