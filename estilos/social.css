@@ -7,10 +7,17 @@
 img {
     width: 100vw;
 }
-::-webkit-scrollbar{
+/* Estilizando as barras de rolagem para navegadores WebKit (como Chrome e Safari) */
+
+/* Definindo a aparência das barras de rolagem */
+::-webkit-scrollbar {
+    /* Configurando a largura das barras de rolagem como zero pixels para torná-las invisíveis */
     width: 0px;
+    
+    /* Configurando a altura das barras de rolagem como zero pixels para torná-las invisíveis */
     height: 0px;
 }
+
 a{
     display: block;
     background-color: darkred;
